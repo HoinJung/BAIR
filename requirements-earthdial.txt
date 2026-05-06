@@ -1,0 +1,23 @@
+# EarthDial pins an older Transformers stack and should live in a separate env.
+torch>=2
+torchvision>=0.15
+transformers==4.37.2
+tokenizers==0.15.1
+accelerate
+sentencepiece==0.1.99
+einops==0.6.1
+einops-exts==0.0.4
+timm==0.9.12
+peft>=0.4.0
+deepspeed==0.13.5
+bitsandbytes==0.41.0
+opencv-python
+numpy
+pillow
+tqdm
+scikit-learn>=1.2.2
+scipy
+pyyaml
+shortuuid
+orjson
+datasets

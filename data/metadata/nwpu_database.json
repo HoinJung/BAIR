@@ -1,0 +1,366 @@
+[
+    {
+        "class_key": "airport",
+        "class_name": "airport",
+        "description": "An airport is an aerodrome with extended facilities, mostly for commercial air transport.[1][2] They usually consist of a landing area, which comprises an aerially accessible open space including at least one operationally active surface such as a runway for a plane to take off and to land[3] or a helipad,[4] and often includes adjacent utility buildings such as control towers, hangars[5] and terminals, to maintain and monitor aircraft. Larger airports may have airport aprons, taxiway bridges, air traffic control centres, passenger facilities such as restaurants and lounges, and emergency services. In some countries, the US in particular, airports also typically have one or more fixed-base operators, serving general aviation. \n\n Airport operations are extremely complex, with a complicated system of aircraft support services, passenger services, and aircraft control services contained within the operation. Thus airports can be major employers, as well as important hubs for tourism and other kinds of transit. Because they are sites of operation for heavy machinery, a number of regulations and safety measures have been implemented in airports, in order to reduce hazards. Additionally, airports have major local environmental impacts, as both large sources of air pollution, noise pollution and other environmental impacts, making them sites that acutely experience the environmental effects of aviation. Airports are also vulnerable infrastructure to extreme weather, climate change caused sea level rise and other disasters."
+    },
+    {
+        "class_key": "baseball_diamond",
+        "class_name": "baseball field",
+        "description": "A baseball field, also called a ball field or baseball diamond, is the field upon which the game of baseball is played. The term can also be used as a metonym for a baseball park. The term sandlot is sometimes used, although this usually refers to less organized venues for activities like sandlot ball. \n\n The starting point for much of the action on the field is home plate (officially 'home base'), a five-sided slab of white rubber. One side is 17 inches (43 cm) long, the two adjacent sides are 8.5 inches (22 cm). The remaining two sides are approximately 12 inches (30 cm) and set at a right angle. The plate is set into the ground so that its surface is level with the field. The corner of home plate where the two 12-inch sides meet at a right angle is at one corner of a 90-foot (27.43 m) square. The dimensional specifications are technically inconsistent because the angle constraints require that the front be √2 times the length of the back, which is not equal to a 17:12 ratio, but a physically built home plate will have side lengths accurate to a few hundredths of an inch.[2] The other three corners of the square, in counterclockwise order from home plate, are called first, second, and third base. These bases are marked by canvas or rubber cushions, 18 inches (46 cm)[3] square and 3–5 inches (7.6–12.7 cm) thick. Adjacent to each of the two parallel 8.5-inch sides is a batter's box. \n\n All the bases, including home plate, lie entirely within fair territory. Thus, any batted ball that touches those bases must necessarily be ruled a fair ball. While the first and third base bags are placed so that they lie inside the 90-foot square formed by the bases, the second base bag is placed so that its center (unlike first, third and home) coincides exactly with the 'point' of the ninety-foot square. Thus, although the 'points' of the bases are 90 feet apart, the physical distance between each successive pair of base markers is closer to 88 feet (26.8 m).[4] \n\n Near the center of the square is an artificial hill known as the pitcher's mound, atop which is a white rubber slab known as the pitcher's plate, colloquially the 'rubber'. The specifications for the pitcher's mound are described below. \n\nThe lines from home plate to first and third bases extend to the nearest fence, stand or other obstruction and are called the foul lines. The portion of the playing field between (and including) the foul lines is fair territory; the rest is 'foul territory'. The area within the square formed by the bases is officially called the infield, though colloquially this term also includes fair territory in the vicinity of the square; fair territory outside the infield is known as the outfield. Most baseball fields are enclosed with a fence that marks the outer edge of the outfield. The fence is usually set at a distance ranging from 300 to 420 feet (90 to 130 m) from home plate. Most professional and college baseball fields have a right and left foul pole which are about 440 to 500 feet (130 to 150 m) apart.[5] These poles are at the intersection of the foul lines and the respective ends of the outfield fence and, unless otherwise specified within the ground rules, lie in fair territory. Thus, a batted ball that passes over the outfield wall in flight and touches the foul pole is a fair ball and the batter is awarded a home run."
+    },
+    {
+        "class_key": "basketball_court",
+        "class_name": "basketball court",
+        "description": "In basketball, the basketball court is the playing surface, consisting of a rectangular floor, with baskets at each end. Indoor basketball courts are almost always made of polished wood, usually maple, with 10 feet (3.048 m)-high rims on each basket. Outdoor surfaces are generally made from standard paving materials such as concrete or asphalt. International competitions may use glass basketball courts. \n\n Basketball courts come in many different sizes. In the National Basketball Association (NBA), the court is 94 by 50 feet (28.7 by 15.2 m). Under International Basketball Federation (FIBA) rules,[2] the court is slightly smaller, measuring 28 by 15 meters (91.9 by 49.2 ft). In amateur basketball, court sizes vary widely. Many older high school gyms were 84 feet (26 m) or even 74 feet (23 m) in length. The baskets are always 10 feet (3.05 m) above the floor (except possibly in youth competition). \n\n Basketball courts have a three-point arc at both baskets. A basket made from behind this arc is worth three points; a basket made from within this line, or with a player's foot touching the line, is worth 2 points. The free-throw line, where one stands while taking a foul shot, is located within the three-point arc at 15 feet from the plane of the backboard. A foul shot is worth 1 point, but if a shot is made from the foul line while in play it is still worth 2 points."
+    },
+    {
+        "class_key": "beach",
+        "class_name": "beach",
+        "description": "A beach is a landform alongside a body of water which consists of loose particles. The particles composing a beach are typically made from rock, such as sand, gravel, shingle, pebbles, etc., or biological sources, such as mollusc shells or coralline algae. Sediments settle in different densities and structures, depending on the local wave action and weather, creating different textures, colors and gradients or layers of material.
+
+Though some beaches form on inland freshwater locations such as lakes and rivers, most beaches are in coastal areas where wave or current action deposits and reworks sediments. Erosion and changing of beach geologies happens through natural processes, like wave action and extreme weather events. Where wind conditions are correct, beaches can be backed by coastal dunes which offer protection and regeneration for the beach. However, these natural forces have become more extreme due to climate change, permanently altering beaches at very rapid rates. Some estimates describe as much as 50 percent of the earth's sandy beaches disappearing by 2100 due to climate-change driven sea level rise.[1]
+
+Sandy beaches occupy about one third of global coastlines.[1] These beaches are popular for recreation, playing important economic and cultural roles—often driving local tourism industries. To support these uses, some beaches have human-made infrastructure, such as lifeguard posts, changing rooms, showers, shacks and bars. They may also have hospitality venues (such as resorts, camps, hotels, and restaurants) nearby or housing, both for permanent and seasonal residents.
+
+Human forces have significantly changed beaches globally: direct impacts include bad construction practices on dunes and coastlines, while indirect human impacts include water pollution, plastic pollution and coastal erosion from sea level rise and climate change. Some coastal management practices are designed to preserve or restore natural beach processes, while some beaches are actively restored through practices like beach nourishment.
+
+Wild beaches, also known as undeveloped or undiscovered beaches, are not developed for tourism or recreation. Preserved beaches are important biomes with important roles in aquatic or marine biodiversity, such as for breeding grounds for sea turtles or nesting areas for seabirds or penguins. Preserved beaches and their associated dune are important for protection from extreme weather for inland ecosystems and human infrastructure.[1]"
+    },
+    {
+        "class_key": "bridge",
+        "class_name": "bridge",
+        "description": "A bridge is a structure designed to span an obstacle, such as a river or valley, allowing vehicles, pedestrians, and other loads to pass across. Most bridges consist of a flat deck, supported by beams, arches, or cables. These structures rest on a foundation that is carefully designed to transfer the weight of the bridge to the subsoil without settling.
+
+Bridges can be constructed in a wide variety of forms, determined by the location, intended purpose, and available construction technologies. Simple bridge structures include beam bridges made from logs, and suspension bridges made of ropes or vines. The Romans and ancient Chinese built major arch bridges of timber, stone, and brick. During the Renaissance, advances in science and engineering led to wider bridge spans and more elegant designs. Concrete was perfected in the early nineteenth century, and arch bridges are now built primarily of concrete or steel.
+
+With the Industrial Revolution came mass-produced steel, which enabled the creation of more complex forms – including truss and cantilever bridges – that permitted bridges to cross wide rivers or deep valleys. The longest spans use suspension or cable-stayed designs, both of which rely on high-strength steel cables to support the deck. Over time, the maximum achievable span of bridges has steadily increased, reaching 2 kilometers (1.2 miles) in 2022. Other bridge forms include multi-span viaducts, which can cross wide valleys; trestles, a common design for carrying heavy trains; and movable bridges including drawbridges and swing bridges.
+
+The design of a bridge must satisfy many requirements, namely connecting to a transportation network, providing adequate clearances, and safely transporting its users. A bridge must be strong enough to support its own weight as well as the weight of the traffic passing over it. It must also tolerate violent, unpredictable stresses imposed by the environment, including winds, floods, and earthquakes. To meet all these goals, bridge engineers typically use limit state design processes and the finite element method.
+
+Many bridges are admired for their beauty, and some spectacular bridges serve as iconic landmarks that provide a sense of pride and identity for the local community. In art and literature, bridges are frequently used as metaphors to represent connection or transition. Bridges can create beneficial impacts on a community, including shorter transport times and increased gross domestic product; and also negative effects such as increased pollution and contributions to global warming."
+    },
+    {
+        "class_key": "chaparral",
+        "class_name": "chaparral",
+        "description": "Chaparral (/ˌʃæpəˈræl, ˌtʃæp-/ SHAP-ə-RAL, CHAP-)[1] is a shrubland plant community found primarily in California, southern Oregon, and northern Baja California, part of the California floristic province. It is shaped by a Mediterranean climate (mild wet winters and hot dry summers) and infrequent, high-intensity crown fires. Many chaparral shrubs have hard sclerophyllous evergreen leaves, as contrasted with the associated soft-leaved, drought-deciduous, scrub community of coastal sage scrub, found often on drier, southern-facing slopes.
+
+Three other closely related chaparral shrubland systems occur in southern Arizona, western Texas, and along the eastern side of central Mexico's mountain chains, all having summer rains in contrast to the Mediterranean climate of other chaparral formations."
+    },
+    {
+        "class_key": "church",
+        "class_name": "church",
+        "description": "A church is a building used for Christian worship services and Christian activities. The earliest identified Christian church is a house church founded between AD 233 and AD 256.[1] The word church also describes a body or assembly of Christian believers, while "the Church" refers to the worldwide Christian religious community.[2]
+
+In traditional Christian architecture, the plan view of a church often forms a Christian cross. The center aisle and seating create the vertical beam, while the bema and altar form the horizontal arms. Towers or domes rise above the heaven-facing roof line to encourage contemplation of the divine. Modern churches employ varied architectural styles, and many buildings originally designed for other purposes have been converted to churches. From the 11th to the 14th centuries, Western Europe experienced a wave of church construction.
+
+Many churches worldwide are of considerable historical, national, cultural, and architectural significance. Several are included in the list of UNESCO World Heritage Sites.[3]"
+    },
+    {
+        "class_key": "farmland",
+        "class_name": "farmland",
+        "description": "Agricultural land is typically land devoted to agriculture,[1] the systematic and controlled use of other forms of life—particularly the rearing of livestock and production of crops—to produce food for humans.[2][3] It is generally synonymous with both farmland or cropland, as well as pasture or rangeland.
+
+The United Nations Food and Agriculture Organization (FAO) and others following its definitions, however, also use agricultural land or agricultural area as a term of art, where it means the collection of:[4][5]
+
+arable land (also known as cropland): here redefined to refer to land producing crops requiring annual replanting or fallowland or pasture used for such crops within any five-year period
+permanent cropland: land producing crops which do not require annual replanting
+permanent pastures: natural or artificial grasslands and shrublands able to be used for grazing livestock
+This sense of "agricultural land" thus includes a great deal of land not devoted to agricultural use. The land actually under annually-replanted crops in any given year is instead said to constitute sown land or cropped land. "Permanent cropland" includes forested plantations used to harvest coffee, rubber, or fruit but not tree farms or proper forests used for wood or timber. Land able to be used for farming is called cultivable land. Farmland, meanwhile, is used variously in reference to all agricultural land, to all cultivable land, or just to the newly restricted[clarification needed] sense of "arable land". Depending upon its use of artificial irrigation, the FAO's "agricultural land" may be divided into irrigated and non-irrigated land.
+
+In the context of zoning, agricultural land or agriculturally-zoned land refers to plots that are permitted to be used for agricultural activities, without regard to its present use or even suitability. In some areas, agricultural land is protected so that it can be farmed without any threat of development. The Agricultural Land Reserve in British Columbia in Canada, for instance, requires approval from its Agricultural Land Commission before its lands can be removed or subdivided.[6]"
+    },
+    {
+        "class_key": "cloud",
+        "class_name": "cloud",
+        "description": "In meteorology, a cloud is an aerosol consisting of a visible mass of miniature liquid droplets, ice crystals, or other particles, suspended in the atmosphere of a planetary body or similar space.[1] Water, primarily, comprises the droplets and crystals. On Earth, clouds are formed as a result of saturation of the air when it is cooled to its dew point, or when it gains sufficient moisture, usually in the form of water vapor, from an adjacent source to raise the dew point to the ambient temperature.
+
+Clouds are seen in the Earth's homosphere, which includes the troposphere, stratosphere, and mesosphere. Nephology is the science of clouds, which is undertaken in the cloud physics branch of meteorology. The World Meteorological Organization uses two methods of naming clouds in their respective layers of the homosphere, Latin and common name.
+
+Genus types in the troposphere, the atmospheric layer closest to Earth's surface, have Latin names because of the universal adoption of Luke Howard's nomenclature that was formally proposed in 1802. It became the basis of a modern international system that divides clouds into five physical forms which can be further divided or classified into altitude levels to derive ten basic genera. The five main forms are stratiform sheets or veils, cumuliform heaps, stratocumuliform bands, rolls, or ripples, cumulonimbiform towers often with fibrous tops, and cirriform wisps or patches. Low-level clouds do not have any altitude-related prefixes. However mid-level stratiform and stratocumuliform types are given the prefix alto- while high-level variants of these same two forms carry the prefix cirro-. In the case of stratocumuliform clouds, the prefix strato- is applied to the low-level genus type but is dropped from the mid- and high-level variants to avoid double-prefixing with alto- and cirro-. Genus types with sufficient vertical extent to occupy more than one level do not carry any altitude-related prefixes. They are classified formally as low- or mid-level depending on the altitude at which each initially forms, and are also more informally characterized as multi-level or vertical. Most of the ten genera derived by this method of classification can be subdivided into species and further subdivided into varieties. Very low stratiform clouds that extend down to the Earth's surface are given the common names fog and mist but have no Latin names.
+
+In the stratosphere and mesosphere, clouds also have common names for their main types. They may have the appearance of veils or sheets, wisps, or bands or ripples, but not heaps or towers as in the troposphere. They are seen infrequently, mostly in the polar regions of Earth. Clouds have been observed in the atmospheres of other planets and moons in the Solar System and beyond. However, due to their different temperature characteristics, they are often composed of other substances such as methane, ammonia, and sulfuric acid, as well as water.
+
+Tropospheric clouds can have a direct effect on climate change on Earth. They may reflect incoming rays from the Sun which can contribute to a cooling effect where and when these clouds occur, or trap longer wave radiation that reflects up from the Earth's surface which can cause a warming effect. The altitude, form, and thickness of the clouds are the main factors that affect the local heating or cooling of the Earth and the atmosphere. Clouds that form above the troposphere are too scarce and too thin to have any influence on climate change. Clouds are the main uncertainty in climate sensitivity.[2]"
+    },
+    {
+        "class_key": "commercial_area",
+        "class_name": "commercial area",
+        "description": "Commercial area, commercial district or commercial zone in a city is an area, district, or neighborhoods primarily composed of commercial buildings, such as a strip mall, office parks, downtown, central business district, financial district, "Main Street", or shopping centers. Commercial activity within cities includes the buying and selling of goods and services in retail businesses, wholesale buying and selling, financial establishments, and a wide variety of uses that are broadly classified as "business." While commercial activities typically take up a relatively small amount of land, they are extremely important to a community's economy. They provide employment, facilitate the circulation of money, and often serve many other roles important to the community, such as public gathering and cultural events.
+
+A commercial area is real estate intended for use by for-profit businesses, such as office complexes, shopping malls, service stations, bars and restaurants. It may be purchased outright by a developer for future projects or leased through a real estate broker. This type of property falls somewhere between residential and industrial property. Practically every incomer must grant permission to build a new office complex or other profit-making business, the city government must determine that the chosen area is indeed commercial area. If the zones which separate commercial, industrial, and residential area are clearly zoned for commercial use, the city will allow the sale to proceed for the stated use. If any part of the property extends into a residential or industrial zone, however, then the buyer must seek a 'variance', special permission to cross over a zone boundary.
+
+A commercial area can be held by real estate agents who treat it the same as residential areas. Signs advertising the availability and size of the real estate can be erected, and arrangements can be made to buy or lease smaller lots. Sellers may also agree to make improvements to the land, such as grading off uneven spots or clearing out unwanted trees. A professional developer may purchase huge swatches of this type of property simply to guarantee its availability for later projects.[1]
+
+"
+    },
+    {
+        "class_key": "dense_residential",
+        "class_name": "residential area",
+        "description": "A residential area is a land used in which housing predominates, as opposed to industrial and commercial areas.[1][2]
+
+Housing may vary significantly between, and through, residential areas. These include single-family housing, multi-family residential, or mobile homes. Zoning for residential use may permit some services or work opportunities or may totally exclude business and industry. It may permit high density land use or only permit low density uses. Residential zoning usually includes a smaller FAR (floor area ratio) than business, commercial or industrial/manufacturing zoning. The area may be large or small. In certain residential areas, especially rural, large tracts of land may have no services whatever, such that residents seeking services must use a motor vehicle or other transportation, so the need for transportation has resulted in land development following existing or planned transport infrastructure such as rail and road. Development patterns may be regulated by restrictive covenants contained in the deeds to the properties in the development and may also result from or be reinforced by zoning. Restrictive covenants are not easily changed when the agreement of all property owners (many of whom may not live in the area) is required. The area so restricted may be large or small.
+
+
+Bashundhara R/A, a private residential area in Dhaka
+Residential areas may be subcategorized in the concentric zone model and other schemes of urban geography."
+    },
+    {
+        "class_key": "desert",
+        "class_name": "desert",
+        "description": "A desert is a landscape where little precipitation occurs and, consequently, living conditions create unique biomes and ecosystems. The lack of vegetation exposes the unprotected surface of the ground to denudation. About one-third of the land surface of the Earth is arid or semi-arid. This includes much of the polar regions, where little precipitation occurs, and which are sometimes called polar deserts or "cold deserts". Deserts can be classified by the amount of precipitation that falls, by the temperature that prevails, by the causes of desertification or by their geographical location.[1]
+
+Deserts are formed by weathering processes as large variations in temperature between day and night strain the rocks, which consequently break into pieces. Although rain seldom occurs in deserts, there are occasional downpours that can result in flash floods. Rain falling on hot rocks can cause them to shatter, and the resulting fragments and rubble strewn over the desert floor are further eroded by the wind. This picks up particles of sand and dust, which can remain airborne for extended periods – sometimes causing the formation of sand storms or dust storms. Wind-blown sand grains striking any solid object in their path can abrade the surface. Rocks are smoothed down, and the wind sorts sand into uniform deposits. The grains end up as level sheets of sand or are piled high in billowing dunes. Other deserts are flat, stony plains where all the fine material has been blown away and the surface consists of a mosaic of smooth stones, often forming desert pavements, and little further erosion occurs. Other desert features include rock outcrops, exposed bedrock and clays once deposited by flowing water. Temporary lakes may form and salt pans may be left when waters evaporate. There may be underground water sources in the form of springs and seepages from aquifers. Where these are found, oases can occur.
+
+Plants and animals living in the desert need special adaptations to survive in the harsh environment. Plants tend to be tough and wiry with small or no leaves, water-resistant cuticles, and often spines to deter herbivory. Some annual plants germinate, bloom, and die within a few weeks after rainfall, while other long-lived plants survive for years and have deep root systems that are able to tap underground moisture. Animals need to keep cool and find enough food and water to survive. Many are nocturnal and stay in the shade or underground during the day's heat. They tend to be efficient at conserving water, extracting most of their needs from their food and concentrating their urine. Some animals remain in a state of dormancy for long periods, ready to become active again during the rare rainfall. They then reproduce rapidly while conditions are favorable before returning to dormancy.
+
+People have struggled to live in deserts and the surrounding semi-arid lands for millennia. Nomads have moved their flocks and herds to wherever grazing is available, and oases have provided opportunities for a more settled way of life. The cultivation of semi-arid regions encourages erosion of soil and is one of the causes of increased desertification. Desert farming is possible with the aid of irrigation, and the Imperial Valley in California provides an example of how previously barren land can be made productive by the import of water from an outside source. Many trade routes have been forged across deserts, especially across the Sahara, and traditionally were used by caravans of camels carrying salt, gold, ivory and other goods. Large numbers of slaves were also taken northwards across the Sahara. Some mineral extraction also takes place in deserts, and the uninterrupted sunlight gives potential for capturing large quantities of solar energy.
+
+"
+    },
+    {
+        "class_key": "forest",
+        "class_name": "forest",
+        "description": "A forest is an ecosystem characterized by a dense community of trees.[2] Hundreds of definitions of forest are used throughout the world, incorporating factors such as tree density, tree height, land use, legal standing, and ecological function.[3][4][5] The United Nations' Food and Agriculture Organization (FAO) defines a forest as, "Land spanning more than 0.5 hectares with trees higher than 5 meters and a canopy cover of more than 10 percent, or trees able to reach these thresholds in situ. It does not include land that is predominantly under agricultural or urban use."[6] Using this definition, Global Forest Resources Assessment 2020 found that forests covered 4.06 billion hectares (10.0 billion acres; 40.6 million square kilometres; 15.7 million square miles), or approximately 31 percent of the world's land area in 2020.[7]
+
+Forests are the largest terrestrial ecosystems of Earth by area, and are found around the globe.[8] 45 percent of forest land is in the tropical latitudes. The next largest share of forests are found in subarctic climates, followed by temperate, and subtropical zones.[9]
+
+Forests account for 75% of the gross primary production of the Earth's biosphere, and contain 80% of the Earth's plant biomass. Net primary production is estimated at 21.9 gigatonnes of biomass per year for tropical forests, 8.1 for temperate forests, and 2.6 for boreal forests.[8]
+
+Forests form distinctly different biomes at different latitudes and elevations, and with different precipitation and evapotranspiration rates.[10] These biomes include boreal forests in subarctic climates, tropical moist forests and tropical dry forests around the Equator, and temperate forests at the middle latitudes. Forests form in areas of the Earth with high rainfall, while drier conditions produce a transition to savanna. However, in areas with intermediate rainfall levels, forest transitions to savanna rapidly when the percentage of land that is covered by trees drops below 40 to 45 percent.[11] Research conducted in the Amazon rainforest shows that trees can alter rainfall rates across a region, releasing water from their leaves in anticipation of seasonal rains to trigger the wet season early. Because of this, seasonal rainfall in the Amazon begins two to three months earlier than the climate would otherwise allow.[12][13] Deforestation in the Amazon and anthropogenic climate change hold the potential to interfere with this process, causing the forest to pass a threshold where it transitions into savanna.[14]
+
+Deforestation threatens many forest ecosystems. Deforestation occurs when humans remove trees from a forested area by cutting or burning, either to harvest timber or to make way for farming. Most deforestation today occurs in tropical forests. The vast majority of this deforestation is because of the production of four commodities: wood, beef, soy, and palm oil.[15] Over the past 2,000 years, the area of land covered by forest in Europe has been reduced from 80% to 34%. Large areas of forest have also been cleared in China and in the eastern United States,[16] in which only 0.1% of land was left undisturbed.[17] Almost half of Earth's forest area (49 percent) is relatively intact, while 9 percent is found in fragments with little or no connectivity. Tropical rainforests and boreal coniferous forests are the least fragmented, whereas subtropical dry forests and temperate oceanic forests are among the most fragmented. Roughly 80 percent of the world's forest area is found in patches larger than 1 million hectares (2.5 million acres). The remaining 20 percent is located in more than 34 million patches around the world – the vast majority less than 1,000 hectares (2,500 acres) in size.[9]
+
+Human society and forests can affect one another positively or negatively.[18] Forests provide ecosystem services to humans and serve as tourist attractions. Forests can also affect people's health. Human activities, including unsustainable use of forest resources, can negatively affect forest ecosystems.[19]
+
+"
+    },
+    {
+        "class_key": "golf_course",
+        "class_name": "golf course",
+        "description": "A golf course is the grounds on which the sport of golf is played. It consists of a series of holes, each consisting of a tee box, a fairway, the rough and other hazards, and a green with a cylindrical hole in the ground, known as a "cup". The cup holds a flagstick, known as a "pin". A standard round of golf consists of 18 holes,[1] and as such most courses contain 18 distinct holes; however, there are many 9-hole courses and some that have holes with shared fairways or greens. There are also courses with a non-standard number of holes, such as 12 or 14.[2][3]
+
+The vast majority of golf courses have holes of varying length and difficulty that are assigned a standard score, known as par, that a proficient player should be able to achieve; this is usually three, four or five strokes. Par-3 courses consist of holes all of which have a par of three. Short courses have gained in popularity; these consist of mostly par 3 holes, but often have some short par 4 holes.[4]
+
+Many older courses are links, often coastal. The first golf courses were based on the topography of sand dunes and dune slacks with a ground cover of grasses, exposed to the wind and sea.[5] Courses are private, public, or municipally owned, and typically feature a pro shop. Many private courses are found at country clubs."
+    },
+    {
+        "class_key": "harbor",
+        "class_name": "harbor",
+        "description": "A harbor (American English), or harbour (Commonwealth English; see spelling differences), is a sheltered body of water where ships, boats, and barges can be moored. The term harbor is often used interchangeably with port, which is a man-made facility built for loading and unloading vessels and dropping off and picking up passengers. Harbors usually include one or more ports. Alexandria Port in Egypt, meanwhile, is an example of a port with two harbors.
+
+Harbors may be natural or artificial. An artificial harbor can have deliberately constructed breakwaters, sea walls, or jetties or they can be constructed by dredging, which requires maintenance by further periodic dredging. An example of an artificial harbor is Long Beach Harbor, California, United States, which was an array of salt marshes and tidal flats too shallow for modern merchant ships before it was first dredged in the early 20th century.[1] In contrast, a natural harbor is surrounded on several sides by land. Examples of natural harbors include Victoria Harbor, Hong Kong, Sydney Harbour, New South Wales, Australia, Halifax Harbour in Halifax, Nova Scotia, Canada, and Trincomalee Harbour in Sri Lanka."
+    },
+    {
+        "class_key": "industrial_area",
+        "class_name": "industrial district",
+        "description": "Industrial district (ID) is a place where workers and firms, specialised in a main industry and auxiliary industries, live and work. The concept was initially used by Alfred Marshall to describe some aspects of the industrial organisation of nations. At the end of the 1990s the industrial districts in developed or developing countries had gained a recognised attention in international debates on industrialisation and policies of regional development."
+    },
+    {
+        "class_key": "isalnd",
+        "class_name": "island",
+        "description": "An island or isle is a piece of land, distinct from a continent, completely surrounded by water. There are continental islands, which were formed by being split from a continent by plate tectonics, and oceanic islands, which have never been part of a continent. Oceanic islands can be formed from volcanic activity, grow into atolls from coral reefs, and form from sediment along shorelines, creating barrier islands. River islands can also form from sediment and debris in rivers. Artificial islands are those made by humans, including small rocky outcroppings built out of lagoons and large-scale land reclamation projects used for development.
+
+Islands are host to diverse plant and animal life. Oceanic islands have the sea as a natural barrier to the introduction of new species, causing the species that do reach the island to evolve in isolation. Continental islands share animal and plant life with the continent they split from. Depending on how long ago the continental island formed, the life on that island may have diverged greatly from the mainland due to natural selection.
+
+Humans have lived on and traveled between islands for thousands of years at a minimum. Some islands became host to humans due to a land bridge or a continental island splitting from the mainland, or by boat travel. In the far north or south some islands are joined by seasonal or glacial ice. Today, up to 10% of the world's population lives on islands. Islands are popular targets for tourism due to their perceived natural beauty, isolation, and unique cultures.
+
+Islands became the target of colonization by Europeans, resulting in the majority of islands in the Pacific being put under European control. Decolonization has resulted in some but not all island nations becoming self-governing, with lasting effects related to industrialisation, invasive species, nuclear weapons testing, and tourism. Islands and island countries are threatened by climate change. Sea level rise threatens to submerge nations such as Maldives, the Marshall Islands, and Tuvalu completely. Increases in the frequency and intensity of tropical cyclones can cause widespread destruction of infrastructure and animal habitats. Species that live exclusively on islands are some of those most threatened by extinction. Some islands can be a disputed territory like Taiwan which China claims."
+    },
+    {
+        "class_key": "lake",
+        "class_name": "lake",
+        "description": "A lake is often a naturally occurring, relatively large and fixed body of water on or near the Earth's surface. It is localized in a basin or interconnected basins surrounded by dry land.[1] Lakes lie completely on land and are separate from the ocean, although they may be connected with the ocean by rivers. Lakes, like other bodies of water, are part of the water cycle, the processes by which water moves around the Earth. Most lakes are fresh water and account for almost all the world's surface freshwater, but some are salt lakes with salinities even higher than that of seawater. Lakes vary significantly in surface area and volume of water, but in total cover approximately 2.5 X 106 km2 (less than 2%) of the Earth's surface.[2]
+
+Lakes are typically larger and deeper than ponds, which are also water-filled basins on land, although there are no official definitions or scientific criteria distinguishing the two.[3] Lakes are also distinct from lagoons, which are generally shallow tidal pools dammed by sandbars or other material at coastal regions of oceans or large lakes. Most lakes are fed by springs, and both fed and drained by creeks and rivers, but some lakes are endorheic without any outflow, while volcanic lakes are filled directly by precipitation runoffs and do not have any inflow streams.[4]
+
+Natural lakes are generally found in mountainous areas (i.e. alpine lakes), dormant volcanic craters, rift zones and areas with ongoing glaciation. Other lakes are found in depressed landforms or along the courses of mature rivers, where a river channel has widened over a basin formed by eroded floodplains and wetlands. Some lakes are found in caverns underground. Some parts of the world have many lakes formed by the chaotic drainage patterns left over from the last ice age. All lakes are temporary over long periods of time, as they will slowly fill in with sediments or spill out of the basin containing them.
+
+Artificially controlled lakes are known as reservoirs, and are usually constructed for industrial or agricultural use, for hydroelectric power generation, for supplying domestic drinking water, for ecological or recreational purposes, or for other human activities.
+
+"
+    },
+    {
+        "class_key": "meadow",
+        "class_name": "meadow",
+        "description": "A meadow (/ˈmɛdoʊ/ MED-oh) is an open habitat or field, vegetated by grasses, herbs, and other non-woody plants. Trees or shrubs may sparsely populate meadows, as long as they maintain an open character. Meadows can occur naturally under favourable conditions but are often artificially created from cleared shrub or woodland for the production of hay, fodder or livestock.[1] Meadow habitats as a group are characterized as semi-natural grasslands, meaning that they are largely composed of species native to the region, with only limited human intervention.
+
+Meadows attract a multitude of wildlife and support flora and fauna that could not thrive in other habitats. They are ecologically important since they provide areas for animal courtship displays, nesting, food gathering, pollinating insects, and sometimes sheltering if the vegetation is high enough. Intensified agricultural practices (too frequent mowing, use of mineral fertilizers, manure and insecticides) may lead to declines in the abundance of organisms and species diversity.[2] There are many types of meadow, including agricultural, transitional, and perpetual – each being a unique and important part of the ecosystem.
+
+Like other biomes, meadows will experience increased pressure (including on their biodiversity) owing to climate change[citation needed], especially as precipitation and weather conditions change. However grasslands and meadows also have an important climate change mitigation potential as carbon sinks: deep-rooted grasses store a substantial amount of carbon in soil[citation needed]."
+    },
+    {
+        "class_key": "mobile_home_park",
+        "class_name": "trailer park",
+        "description": "A trailer park, caravan park, mobile home park, mobile home community or manufactured home community is a temporary or permanent area for mobile homes and travel trailers. Advantages include low cost compared to other housing, and quick and easy moving to a new area (for example, when taking a job in a distant place while keeping the same home).
+
+Trailer parks, especially in American culture, are stereotypically viewed as lower income housing for occupants living at or below the poverty line who have low social status.[1][2][3][4] Despite the advances in trailer home technology, the trailer park image survives as evoked by a statement from Presidential adviser James Carville who, in the course of one of the Bill Clinton White House political scandals, suggested: "Drag $100 bills through trailer parks, there's no telling what you'll find," in reference to Paula Jones.[5]
+
+Tornadoes and hurricanes often inflict serious damage on trailer parks, usually because the structures are not secured to the ground and their construction much less robust in high winds than regular houses.[6][7] However, most modern manufactured homes are built to withstand high winds, using hurricane straps and proper foundations.[8]
+
+"
+    },
+    {
+        "class_key": "mountain",
+        "class_name": "mountain",
+        "description": "A mountain is an elevated portion of the surface of a planet, generally with steep sides that show significant exposed bedrock. Although definitions vary, a mountain is usually considered higher than a hill, typically rising 610 metres (2,000 ft)[1] or more above the surrounding land. It may either have a limited summit area or be a smaller plateau with high elevation and steep sides. A few mountains are isolated summits, but most occur in mountain ranges.[2][page needed]
+
+Mountains are formed through tectonic forces, erosion, or volcanism,[2][page needed] which act on time scales of up to tens of millions of years.[3] Once mountain building ceases, mountains are slowly leveled through the action of weathering, through slumping and other forms of mass wasting, as well as through erosion by rivers and glaciers.[4]
+
+High elevations on mountains produce colder climates than at sea level at similar latitude. These colder climates strongly affect the ecosystems of mountains: different elevations have different plants and animals. Because of the less hospitable terrain and climate, mountains tend to be used less for agriculture and more for resource extraction, such as mining and logging, along with recreation, such as mountain climbing and skiing.
+
+The highest mountain on Earth is Mount Everest in the Himalayas of Asia, whose summit is 8,850 m (29,035 ft) above mean sea level. The highest known mountain on any planet in the Solar System is Olympus Mons on Mars at 21,171 m (69,459 ft). The highest mountain on Earth from base to peak is Mauna Kea in Hawaii, which rises 9,330 m (30,610 ft) from its base at the bottom of the ocean; some scientists consider it to be the tallest on Earth.[4]
+
+"
+    },
+    {
+        "class_key": "overpass",
+        "class_name": "overpass",
+        "description": "An overpass, called an overbridge or flyover (for a road only) in the United Kingdom and some other Commonwealth countries, is a bridge, road, railway or similar structure that is over another road or railway. An overpass and underpass together form a grade separation.[1] Stack interchanges are made up of several overpasses."
+    },
+    {
+        "class_key": "palace",
+        "class_name": "palace",
+        "description": "A palace is a large residence, often serving as a royal residence or the home for a head of state or another high-ranking dignitary, such as a bishop or archbishop.[2] The word is derived from the Latin name palātium, for Palatine Hill in Rome which housed the Imperial residences.[2]
+
+Most European languages have a version of the term (palats, palais, palazzo, palacio, etc.) and many use it to describe a broader range of buildings than English. In many parts of Europe, the equivalent term is also applied to large private houses in cities, especially of the aristocracy. It is also used for some large official buildings that have never had a residential function; for example in French-speaking countries Palais de Justice is the usual name of important courthouses. Many historic palaces such as parliaments, museums, hotels, or office buildings are now put to other uses. The word is also sometimes used to describe an elaborate building used for public entertainment or exhibitions[2] such as a movie palace.
+
+A palace is typically distinguished from a castle in that the latter is fortified or has the style of a fortification, whereas a palace does not."
+    },
+    {
+        "class_key": "parking_lot",
+        "class_name": "parking lot",
+        "description": "A parking lot (North American English) or car park (British English), also known as a car lot, is a cleared area intended for parking vehicles. The term usually refers to an area dedicated only for parking, with a durable or semi-durable surface. In most jurisdictions where cars are the dominant mode of transportation, parking lots are a major feature of cities and suburban areas. Shopping malls, sports stadiums, and other similar venues often have immense parking lots. (See also: multistorey car park)
+
+Parking lots tend to be sources of water pollution because of their extensive impervious surfaces, and because most have limited or no facilities to control runoff. Many areas today also require minimum landscaping in parking lots to provide shade and help mitigate the extent to which their paved surfaces contribute to heat islands. Many municipalities require a minimum numbers of parking spaces for buildings such as stores (by floor area) and apartment complexes (by number of bedrooms). In the United States, each state's department of transportation requires a fraction of lot spaces to be reserved for people holding a disabled parking permit. Modern parking lots use various technologies to enable motorists to pay parking fees, help them find unoccupied spaces and retrieve their vehicles, and improve their parking experiences.
+
+"
+    },
+    {
+        "class_key": "railway",
+        "class_name": "rail transport",
+        "description": "Rail transport (also known as train transport) is a means of transport using wheeled vehicles running on tracks, which usually consist of two parallel steel rails.[1] Rail transport is one of the two primary means of land transport, next to road transport. It is used for about 8% of passenger and freight transport globally,[2] thanks to its energy efficiency[2] and potentially high speed. Additionally, the track spreads the weight of the train which means larger amounts can be carried than with trucks on roads.
+
+Rolling stock on rails generally encounters lower frictional resistance than rubber-tyred road vehicles, allowing rail cars to be coupled into longer trains. Power is usually provided by diesel or electric locomotives. While railway transport is capital-intensive and less flexible than road transport, it can carry heavy loads of passengers and cargo with greater energy efficiency and safety.[a]
+
+Precursors of railways driven by human or animal power, have existed since antiquity, but modern rail transport began with the invention of the steam locomotive in the United Kingdom at the beginning of the 19th century. The first passenger railway, the Stockton and Darlington Railway, opened in 1825. The quick spread of railways throughout Europe and North America, following the 1830 opening of the first intercity connection in England, was a key component of the Industrial Revolution. The adoption of rail transport lowered shipping costs compared to transport by water or wagon, and led to "national markets" in which prices varied less from city to city.[3][4][5][6][7][8]
+
+Railroads not only increased the speed of transport, they also dramatically lowered its cost. For example, the first transcontinental railroad in the United States resulted in passengers and freight being able to cross the country in a matter of days instead of months and at one tenth the cost of stagecoach or wagon transport. With economical transportation in the West (which had been referred to as the Great American Desert), now farming, ranching and mining could be done at a profit. As a result, railroads transformed the country, particularly the West (which had few navigable rivers).[9][3][6][7][10][11]
+
+In the 1880s, railway electrification began with tramways and rapid transit systems. Starting in the 1940s, steam locomotives were replaced by diesel locomotives. The first high-speed railway system was introduced in Japan in 1964, and high-speed rail lines now connect many cities in Europe, East Asia, and the eastern United States. Following some decline due to competition from cars and aeroplanes, rail transport has had a revival in recent decades due to road congestion and rising fuel prices, as well as governments investing in rail as a means of reducing CO2 emissions."
+    },
+    {
+        "class_key": "railway_station",
+        "class_name": "train station",
+        "description": "A train station, railroad station, or railway station is a railway facility where trains stop to load or unload passengers, freight, or both. It generally consists of at least one platform, one track, and a station building providing such ancillary services as ticket sales, waiting rooms, and baggage/freight service. Stations on a single-track line often have a passing loop to accommodate trains travelling in the opposite direction.[2]
+
+Locations at which passengers only occasionally board or leave a train, sometimes consisting of a short platform and a waiting area but sometimes indicated by no more than a sign, are variously referred to as "stops", "flag stops", "halts", or "provisional stopping places". The stations themselves may be at ground level, underground, or elevated. Connections may be available to intersecting rail lines or other transport modes such as buses, trams, or other rapid transit systems."
+    },
+    {
+        "class_key": "river",
+        "class_name": "river",
+        "description": "A river is a natural stream of fresh water that flows on land or inside caves towards another body of water at a lower elevation, such as an ocean, lake, or another river. A river may run dry before reaching the end of its course if it runs out of water, or only flow during certain seasons. Rivers are regulated by the water cycle, the processes by which water moves around the Earth. Water first enters rivers through precipitation, whether from rainfall, the runoff of water down a slope, the melting of glaciers or snow, or seepage from aquifers beneath the surface of the Earth.
+
+Rivers flow in channeled watercourses and merge in confluences to form drainage basins, areas where surface water eventually flows to a common outlet. Drainage divides keep rivers separated from other courses of water and causes upstream water within the confines of the divide to fall into the downhill stream. Rivers have a great effect on the landscape around them. They may regularly overflow their banks and flood the surrounding area, spreading nutrients to the surrounding area. Sediment or alluvium carried by rivers shapes the landscape around it, forming deltas and islands where the flow slows down. Rivers rarely run in a straight line, instead, they bend or meander; the locations of a river's banks can change frequently. Rivers get their alluvium from erosion, which carves rock into canyons and valleys.
+
+Rivers have sustained human and animal life for millennia, including the first human civilizations. The organisms that live around or in a river such as fish, aquatic plants, and insects have different roles, including processing organic matter and predation. Rivers have produced abundant resources for humans, including food, transportation, drinking water, and recreation. Humans have engineered rivers to prevent flooding, irrigate crops, perform work with water wheels, and produce hydroelectricity from dams. People associate rivers with life and fertility and have strong religious, political, social, and mythological attachments to them.
+
+Rivers and river ecosystems are threatened by water pollution, climate change, and human activity. The construction of dams, canals, levees, and other engineered structures has eliminated habitats, has caused the extinction of some species, and lowered the amount of alluvium flowing through rivers. Decreased snowfall from climate change has resulted in less water available for rivers during the summer. Regulation of pollution, dam removal, and sewage treatment have helped to improve water quality and restore river habitats.
+
+"
+    },
+    {
+        "class_key": "roundabout",
+        "class_name": "roundabout",
+        "description": "A roundabout, a rotary and a traffic circle are types of circular road in which traffic is permitted to flow in one direction around a central island.[1][2]
+
+In the United States, engineers use the term modern roundabout to refer to junctions installed after 1960 that incorporate design rules to increase safety.[3][2] Compared to stop signs, traffic signals, and earlier forms of roundabouts, modern roundabouts reduce the likelihood and severity of collisions greatly by reducing traffic speeds through horizontal deflection and minimising T-bone and head-on collisions.[4][5] Variations on the basic concept include integration with tram or train lines, two-way flow, higher speeds and many others.
+
+For pedestrians, traffic exiting the roundabout comes from one direction, instead of three, simplifying the pedestrian's visual environment. Traffic moves slowly enough to allow visual engagement with pedestrians, encouraging deference towards them. Other benefits include reduced driver confusion associated with perpendicular junctions[citation needed] and reduced queuing associated with traffic lights. They allow U-turns within the normal flow of traffic, which often are not possible at other forms of junction. Moreover, since vehicles that run on petrol or diesel typically spend less time idling at roundabouts than at signalled intersections, using a roundabout potentially leads to less pollution.[6][7] When entering vehicles only need to give way, they do not always perform a full stop; as a result, by keeping a part of their momentum, the engine will require less work to regain the initial speed, resulting in lower emissions. Research has also shown that slow-moving traffic in roundabouts makes less noise than traffic that must stop and start, speed up and brake.[8]
+
+Modern roundabouts were first standardised in the UK in 1966 and were found to be a significant improvement over previous traffic circles and rotaries. Since then, modern roundabouts have become commonplace throughout the world,[2]: 2  including Australia, the United Kingdom and France.[7]"
+    },
+    {
+        "class_key": "runway",
+        "class_name": "runway",
+        "description": "In aviation, a runway is an elongated, rectangular surface designed for the landing and takeoff of an aircraft.[1] Runways may be a human-made surface (often asphalt, concrete, or a mixture of both) or a natural surface (grass, dirt, gravel, ice, sand or salt). Runways, taxiways and ramps, are sometimes referred to as "tarmac", though very few runways are built using tarmac. Takeoff and landing areas defined on the surface of water for seaplanes are generally referred to as waterways. Runway lengths are now commonly given in meters worldwide, except in North America where feet are commonly used.[2]"
+    },
+
+    {
+        "class_key": "sea_ice",
+        "class_name": "sea ice",
+        "description": "Sea ice forms as seawater freezes. Because ice is less dense than liquid water, it floats on the ocean's surface (just like fresh water ice). Sea ice covers about 7% of the Earth's surface and about 12% of the world's oceans.[1][2][3] Much of the world's sea ice is enclosed within the polar ice packs in the Earth's polar regions: the Arctic ice pack of the Arctic Ocean and the Antarctic ice pack of the Southern Ocean. Polar packs naturally undergo significant yearly cycling, reaching their greatest surface extent in winter and retreating in summer.
+
+Within the ice, salty brine channels provide habitat for microorganisms that form the base of unique food webs. The presence or absence of sea ice also shapes navigation routes, regional weather, and global ocean circulation. Sea ice plays a key role in Earth's climate. Its white surface reflects the Sun's energy back into space, helping to keep the planet cool in a process known as the albedo effect. Sea ice also insulates the ocean below, limiting the transfer of heat, water vapor, and gases such as carbon dioxide between the sea and the atmosphere.
+
+Satellite records have shown a marked decline in Arctic sea ice extent and thickness in recent decades, a trend linked to global climate change. Antarctic sea ice shows more regional variability but is recently also experiencing declines.
+
+Sea ice is dynamic, due to the action of winds, currents and temperature fluctuations, which lead to a wide variety of ice types and features. Sea ice differs from icebergs, which are chunks of ice shelves or glaciers that calve into the ocean. Depending on location, sea ice may contain embedded icebergs."
+    },
+    {
+        "class_key": "ship",
+        "class_name": "ship",
+        "description": "A ship is a large watercraft designed for travel across the surface of a body of water, carrying cargo or passengers, or in support of specialized tasks such as warfare, oceanography and fishing. Ships are generally distinguished from boats, based on size, shape, load capacity and purpose. Ships have supported exploration, trade, warfare, migration, colonization, and science. Ship transport is responsible for the largest portion of world commerce.
+
+The word ship has meant, depending on era and context, either simply a large vessel or specifically a full-rigged ship with three or more masts, each of which is square rigged.
+
+The earliest historical evidence of boats is found in Egypt during the 4th millennium BC.[1] In 2024, ships had a global cargo capacity of 2.4 billion tons, with the three largest classes being ships carrying dry bulk (43%), oil tankers (28%) and container ships (14%).[2]
+
+"
+    },
+    {
+        "class_key": "stadium",
+        "class_name": "stadium",
+        "description": "A stadium (pl.: stadiums or stadia)[1] is a place or venue for (mostly) outdoor sports, concerts, or other events and consists of a field or stage completely or partially surrounded by a tiered structure designed to allow spectators to stand or sit and view the event.[2][3] Pausanias noted that for about half a century the only event at the ancient Greek Olympic festival was the race that comprised one length of the stadion at Olympia, where the word "stadium" originated.[4] Most of the stadiums with a capacity of at least 10,000 are used for association football. Other popular stadium sports include gridiron football, baseball, cricket, the various codes of rugby, field lacrosse, bandy, and bullfighting. Many large sports venues are also used for concerts."
+    },
+    {
+        "class_key": "storage_tank",
+        "class_name": "storage tank",
+        "description": "Storage tanks are containers that hold liquids or compressed gases. The term can be used for reservoirs (artificial lakes and ponds), and for manufactured containers. The usage of the word "tank" for reservoirs is uncommon in American English but is moderately common in British English. In other countries, the term tends to refer only to artificial containers. In the U.S., storage tanks operate under no (or very little) pressure, distinguishing them from pressure vessels.
+
+Tanks can be used to hold materials as diverse as milk, water, waste, petroleum, chemicals, and other hazardous materials, all while meeting industry standards and regulations.[1] Storage tanks are available in many shapes: vertical and horizontal cylindrical; open top and closed top; flat bottom, cone bottom, slope bottom and dish bottom. Large tanks tend to be vertical cylindrical, with flat bottoms, and a fixed frangible or floating roof, or to have rounded corners transition from the vertical side wall to bottom profile, in order to withstand hydraulic hydrostatic pressure. Tanks built below ground level are sometimes used and referred to as underground storage tanks (USTs).
+
+Reservoirs can be covered, in which case they may be called covered or underground storage tanks or reservoirs. Covered water tanks are common in urban areas.
+
+Tanks can be mounted on a lorry or an articulated lorry trailer. The resulting vehicle is called a road tanker (or simply tanker; tank truck in American English). Tank cars are tanks mounted on goods wagons for rail transportation."
+    },
+    {
+        "class_key": "tennis_court",
+        "class_name": "tennis court",
+        "description": "A tennis court is the venue where the sport of tennis is played. It is a firm rectangular surface with a low net stretched across the centre. The same surface can be used to play both doubles and singles matches. A variety of surfaces can be used to create a tennis court, each with its own characteristics which affect the playing style of the game."
+    },
+    {
+        "class_key": "terrace",
+        "class_name": "terrace",
+        "description": "A terrace in agriculture is a flat surface that has been cut into hills or mountains to provide areas for the cultivation for crops, as a method of more effective farming. Terrace agriculture or cultivation is when these platforms are created successively down the terrain in a pattern that resembles the steps of a staircase. As a type of landscaping, it is called terracing.
+
+Terraced fields decrease both erosion and surface runoff, and may be used to support growing crops that require irrigation, such as rice. The Rice Terraces of the Philippine Cordilleras have been designated as a UNESCO World Heritage Site because of the significance of this technique.[1]
+
+"
+    },
+    {
+        "class_key": "thermal_power_station",
+        "class_name": "thermal power station",
+        "description": "A thermal power station, also known as a thermal power plant, is a type of power station in which the heat energy generated from various fuel sources (e.g., coal, natural gas, nuclear fuel, etc.) is converted to electrical energy.[1] The heat from the source is converted into mechanical energy using a thermodynamic power cycle (such as a Diesel cycle, Rankine cycle, Brayton cycle, etc.). The most common cycle involves a working fluid (often water) heated and boiled under high pressure in a pressure vessel to produce high-pressure steam. This high pressure-steam is then directed to a turbine, where it rotates the turbine's blades. The rotating turbine is mechanically connected to an electric generator which converts rotary motion into electricity. Fuels such as natural gas or oil can also be burnt directly in gas turbines (internal combustion), skipping the steam generation step. These plants can be of the open cycle or the more efficient combined cycle type.
+
+The majority of the world's thermal power stations are driven by steam turbines, gas turbines, or a combination of the two. The efficiency of a thermal power station is determined by how effectively it converts heat energy into electrical energy, specifically the ratio of saleable electricity to the heating value of the fuel used. Different thermodynamic cycles have varying efficiencies, with the Rankine cycle generally being more efficient than the Otto or Diesel cycles.[1] In the Rankine cycle, the low-pressure exhaust from the turbine enters a steam condenser where it is cooled to produce hot condensate which is recycled to the heating process to generate even more high pressure steam.
+
+The design of thermal power stations depends on the intended energy source. In addition to fossil and nuclear fuel, some stations use geothermal power, solar energy, biofuels, and waste incineration. Certain thermal power stations are also designed to produce heat for industrial purposes, provide district heating, or desalinate water, in addition to generating electrical power. Emerging technologies such as supercritical and ultra-supercritical thermal power stations operate at higher temperatures and pressures for increased efficiency and reduced emissions. Cogeneration or CHP (Combined Heat and Power) technology, the simultaneous production of electricity and useful heat from the same fuel source, improves the overall efficiency by using waste heat for heating purposes. Older, less efficient thermal power stations are being decommissioned or adapted to use cleaner and renewable energy sources.
+
+Thermal power stations produce 70% of the world's electricity.[2] They often provide reliable, stable, and continuous baseload power supply essential for economic growth. They ensure energy security by maintaining grid stability, especially in regions where they complement intermittent renewable energy sources dependent on weather conditions. The operation of thermal power stations contributes to the local economy by creating jobs in construction, maintenance, and fuel extraction industries. On the other hand, burning of fossil fuels releases greenhouse gases (contributing to climate change) and air pollutants such as sulfur oxides and nitrogen oxides (leading to acid rain and respiratory diseases). Carbon capture and storage (CCS) technology can reduce the greenhouse gas emissions of fossil-fuel-based thermal power stations, however it is expensive and has seldom been implemented. Government regulations and international agreements are being enforced to reduce harmful emissions and promote cleaner power generation."
+    },
+    {
+        "class_key": "wetland",
+        "class_name": "wetland",
+        "description": "A wetland is a distinct semi-aquatic ecosystem whose groundcovers are flooded or saturated in water, either permanently, for years or decades, or only seasonally. Flooding results in oxygen-poor (anoxic) processes taking place, especially in the soils.[1] Wetlands form a transitional zone between waterbodies and dry lands, and are different from other terrestrial or aquatic ecosystems due to their vegetation's roots having adapted to oxygen-poor waterlogged soils.[2] They are considered among the most biologically diverse of all ecosystems, serving as habitats to a wide range of aquatic and semi-aquatic plants and animals, with often improved water quality due to plant removal of excess nutrients such as nitrates and phosphorus.
+
+Wetlands exist on every continent, except Antarctica.[3] The water in wetlands is either freshwater, brackish or saltwater.[2] The main types of wetlands are defined based on the dominant plants and the source of the water. For example, marshes are wetlands dominated by emergent herbaceous vegetation such as reeds, cattails, and sedges. Swamps are dominated by woody vegetation, such as trees and shrubs (although reed swamps in Europe are dominated by reeds, not trees). Mangrove forests are wetlands with mangroves and halophytic woody plants that have evolved to tolerate salty water.
+
+Examples of wetlands classified by the sources of water include tidal wetlands, where the water source is ocean tides; estuaries, water source is mixed tidal and river waters; floodplains, water source is excess water from overflowed rivers or lakes; and bogs and vernal ponds, water source is rainfall or meltwater, sometimes mediated through groundwater springs.[1][4] The world's largest wetlands include the Amazon River basin, the West Siberian Plain,[5] the Pantanal in South America,[6] and the Sundarbans in the Ganges-Brahmaputra delta.[7]
+
+Wetlands contribute many ecosystem services that benefit people. These include for example water purification, stabilization of shorelines, storm protection and flood control. In addition, wetlands also process and condense carbon (in processes called carbon fixation and sequestration), and other nutrients and water pollutants. Wetlands can act as a sink or a source of carbon, depending on the specific wetland. If they function as a carbon sink, they can help with climate change mitigation. However, wetlands can also be a significant source of methane emissions due to anaerobic decomposition of soaked detritus, and some are also emitters of nitrous oxide.[8][9]
+
+Humans are disturbing and damaging wetlands in many ways, including oil and gas extraction, building infrastructure, overgrazing of livestock, overfishing, alteration of wetlands including dredging and draining, nutrient pollution, and water pollution.[10][11] Wetlands are more threatened by environmental degradation than any other ecosystem on Earth, according to the Millennium Ecosystem Assessment from 2005.[12] Methods exist for assessing wetland ecological health. These methods have contributed to wetland conservation by raising public awareness of the functions that wetlands can provide.[13] Since 1971, work under an international treaty seeks to identify and protect "wetlands of international importance.""
+    },
+
+]

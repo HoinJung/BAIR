@@ -1,0 +1,3 @@
+# FACET DeepSeek-VL needs the official DeepSeek-VL package in addition to core deps.
+# Install after requirements.txt.
+deepseek-vl @ git+https://github.com/deepseek-ai/DeepSeek-VL.git

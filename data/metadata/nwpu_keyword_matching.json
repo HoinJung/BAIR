@@ -1,0 +1,144 @@
+{
+  "note": "Editable keyword list used for NWPU correctness matching.",
+  "source": "auto-generated from class names; manually refine as needed",
+  "keywords": {
+    "airport": [
+      "airport","runway","airfield","aviation","airplane","aircraft"
+    ],
+    "baseball_diamond": [
+      "baseball",
+      "baseball diamond",
+      "baseball field",
+      "baseball_diamond",
+      "diamond",
+      "ball park",
+      "ballpark","stadium","sports"
+    
+    ],
+    "basketball_court": [
+      "basketball",
+      "basketball court"
+    ],
+    "beach": [
+      "beach","sand","ocean","sea","water","maritime","coast","coastline","coastal","shore","shoreline","wave","waves"
+    ],
+    "bridge": [
+      "bridge","road","viaduct","tunnel","transportation"
+    ],
+    "chaparral": [
+      "chaparral","shrub","shrubland","scrub","scrubland","brush","brushland","bushes","bushesland"
+    ],
+    "church": [
+      "church","religion","religious","cathedral", "chapel", "basilica"
+    ],
+    "cloud": [
+      "cloud","sky","overcast", "fog", "haze"
+    ],
+    "commercial_area": [
+      "business",
+      "commercial",
+      "commercial area",
+      "shopping","downtown", "retail", "market", "plaza", "mall"
+    ],
+    "desert": [
+      "desert","arid","barren","sand", "dunes", "dune"
+    ],
+    "farmland": [
+        "agricultural",
+      "crop",
+      "livestock",
+      "farmland",
+      "farm","agriculture",
+      "plantation", "field", "cultivated", "ranch"
+    ],
+    "forest": [
+      "forest","woodland","wood","tree","trees","forested","forestry", "rainforest"
+    ],
+    "golf_course": [
+      "course",
+      "golf"
+    ],
+    "harbor": [
+      "harbor","port","dock","maritime","maritime", "marina"
+    ],
+    "industrial_area": [
+      "factories",
+      "industrial",
+      "factory",
+      "district",
+      "warehouses",
+      "factory", "plant", "manufacturing", "complex", "refinery", "facility", "industry"
+    ],
+    "island": [
+      "island"
+    ],
+    "lake": [
+      "lake","water","waterbody","harbor","maritime","dock"
+    ],
+    "meadow": [
+      "meadow","grass","field"
+    ],
+    "mobile_home_park": [
+      "caravan",
+      "home","mobile","park","trailer"
+    ],
+    "mountain": [
+      "mountain","hill","peak","forest","woodland","wood","tree","trees","forested","forestry"
+    ],
+    "overpass": [
+      "overpass","road","bridge","viaduct","tunnel","transportation"
+    ],
+    "palace": [
+      "palace","castle","fortress"
+    ],
+    "parking_lot": [
+      "car","parking","lot"
+    ],
+    "railway": [
+      "railway","train","transportation","railroad","transit","track"
+    ],
+    "railway_station": [
+      "railway","station","train"
+    ],
+    "residential": [
+        "home", "house","suburb","suburban", "neighborhood","neighbourhood","apartment",
+      "dense","medium","sparse","residential","housing"
+    ],
+    "river": [
+      "river","water","waterbody","maritime","dock","harbor","stream", "creek", "canal","waterway"
+    ],
+    "roundabout": [
+      "roundabout","road","transportation","intersection","traffic"
+    ],
+    "runway": [
+      "runway","taxiway","airport","airfield","aviation","airplane","aircraft"
+    ],
+    "sea_ice": [
+      "ice","sea","iceberg", "glacier", "frozen", "arctic", "antarctic", "ice sheet", "snow", "frost","polar"
+    ],
+    "ship": [
+      "ship","boat","sea","river","ocean","shore","coast","coastal",
+      "transportation","harbor","maritime","dock"
+    ],
+    "stadium": [
+      "stadium","sports","arena", "coliseum", "pitch", "bowl", "athletic field", "football field", "soccer field", "grandstand", "bleachers", "track and field", "field"
+    ],
+    "storage_tank": [
+      "cylindrical","tank",
+      "storage",
+      "silo", "silos", "reservoir", "gasometer", "container"
+    ],
+    "tennis_court": [
+      "tennis","court"
+    ],
+    "terrace": [
+      "terrace","agricultural","field","crop","farmland","farm","agriculture", "terraced", "stepping", "contour"
+    ],
+    "thermal_power_station": [
+      "cooling tower","power","electricity","plant","station","thermal","industrial","industry","smokestack", "chimney", "energy plant", "power station", "generator", "coal plant", "nuclear plant"
+    ],
+    "wetland": [
+      "wetland","water","bog","marsh","swamp"
+    ]
+  }
+}

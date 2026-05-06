@@ -1,0 +1,11 @@
+{"exclude": [
+    "airplane",
+    "freeway",
+    "ground_track_field",
+"intersection",
+"snowberg","cloud"],
+"farmland": ["circular_farmland",
+"rectangular_farmland"],"residential": ["sparse_residential",
+
+"dense_residential",
+"medium_residential"]}

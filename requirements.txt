@@ -1,0 +1,24 @@
+# Core BAIR environment: MedGemma, CheXagent, FACET Qwen, evaluation, and preprocessing.
+# Install a CUDA build of torch/torchvision that matches your machine before this file if needed.
+torch>=2.6
+torchvision
+transformers>=4.57,<4.58
+accelerate>=1.10
+huggingface-hub>=0.34
+safetensors
+sentencepiece
+protobuf
+qwen-vl-utils>=0.0.10
+llmlingua>=0.2.2
+faiss-cpu
+numpy>=1.24
+pandas>=2.0
+scikit-learn>=1.3
+scipy
+pillow
+tqdm
+psutil
+opencv-python
+matplotlib
+seaborn
+nltk

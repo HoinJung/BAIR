@@ -1,0 +1,21 @@
+# SkySense/GeoChat uses an older LLaVA-style stack. Prefer a separate env.
+torch==2.0.1
+torchvision==0.15.2
+transformers==4.31.0
+accelerate==0.21.0
+tokenizers>=0.12.1
+sentencepiece==0.1.99
+einops==0.6.1
+einops-exts==0.0.4
+timm==0.6.13
+peft==0.4.0
+bitsandbytes==0.41.0
+deepspeed==0.9.5
+shortuuid
+httpx==0.24.0
+markdown2[all]
+numpy
+pillow
+opencv-python
+scikit-learn==1.2.2
+tqdm
