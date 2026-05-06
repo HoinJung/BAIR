@@ -2,7 +2,14 @@
 set -euo pipefail
 
 ROOT="$(cd "$(dirname "${BASH_SOURCE[0]}")/.." && pwd)"
-SRC_ROOT="${1:-/home/jw-server3/a/jung414/data}"
+
+if [[ $# -ne 1 ]]; then
+  echo "Usage: $0 /path/to/raw/data/root" >&2
+  echo "Expected subdirectories: iuchest, facet, NWPU" >&2
+  exit 2
+fi
+
+SRC_ROOT="$1"
 
 mkdir -p "$ROOT/data/raw"
 
@@ -22,6 +29,5 @@ link_one() {
 }
 
 link_one "$SRC_ROOT/iuchest" "$ROOT/data/raw/iuchest"
-link_one "$SRC_ROOT/mimic-cxr" "$ROOT/data/raw/mimic-cxr"
 link_one "$SRC_ROOT/NWPU" "$ROOT/data/raw/NWPU"
 link_one "$SRC_ROOT/facet" "$ROOT/data/raw/facet"
